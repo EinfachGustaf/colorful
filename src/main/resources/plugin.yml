@@ -5,3 +5,5 @@ main: live.einfachgustaf.colorful.Colorful
 libraries:
   - "net.axay:kspigot:1.20.3"
   - "org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3"
+author: DinoMarlir
+website: https://modrinth.com/plugin/mccolorful
