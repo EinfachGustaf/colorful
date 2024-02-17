@@ -1,4 +1,4 @@
-rootProject.name = "kspigot-plugin-template"
+rootProject.name = "colorful"
 
 pluginManagement {
     repositories {

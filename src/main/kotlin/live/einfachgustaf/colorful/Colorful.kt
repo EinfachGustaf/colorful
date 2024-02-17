@@ -2,7 +2,7 @@ package live.einfachgustaf.example
 
 import net.axay.kspigot.main.KSpigot
 
-class ExamplePlugin: KSpigot() {
+class Colorful: KSpigot() {
 
     companion object {
         lateinit var INSTANCE: ExamplePlugin; private set
