@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "live.einfachgustaf"
-version = "1.0"
+version = "1.1"
 
 repositories {
     mavenCentral()
@@ -20,4 +20,10 @@ dependencies {
 
 kotlin {
     jvmToolchain(17)
+}
+
+tasks {
+    withType<JavaCompile> {
+        options.encoding = "UTF-8"
+    }
 }
